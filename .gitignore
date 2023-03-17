@@ -1,3 +1,5 @@
 *.net
 *.py
 *.txt
+
+!eight.net
