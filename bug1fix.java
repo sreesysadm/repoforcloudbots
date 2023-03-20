@@ -1,1 +1,3 @@
-written on masterbranch this is the solution for bug1
+this is the solution for bug1
+
+suggested by manager
